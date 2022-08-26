@@ -1,24 +1,8 @@
 # patchstack-spa-app
 
-## Project setup
-```
-npm install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+A simple application to view and modify a list of web app security risks, as well as add new ones.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Important Files
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
